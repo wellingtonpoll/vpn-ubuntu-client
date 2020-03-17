@@ -1,3 +1,3 @@
 # vpn client
 
-.beb file for vpn client
+.deb file for vpn client
